@@ -12,6 +12,8 @@
   - type: Item
     size: Small
     sprite: Objects/Weapons/Guns/Shotguns/flaregun.rsi
+  - type: Wieldable
+    unwieldOverride: true
   - type: Gun
     fireRate: 8
     selectedMode: SemiAuto

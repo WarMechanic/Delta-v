@@ -25,6 +25,8 @@
     slots:
     - suitStorage
     - Belt
+  - type: Wieldable
+    unwieldOverride: true
   - type: Gun
     fireRate: 6
     selectedMode: SemiAuto

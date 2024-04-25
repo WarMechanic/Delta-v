@@ -22,6 +22,8 @@
     - suitStorage
     - Belt
   - type: AmmoCounter
+  - type: Wieldable
+    unwieldOverride: true
   - type: Gun
     selectedMode: SemiAuto
     fireRate: 1.5
