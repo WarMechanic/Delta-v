@@ -103,7 +103,7 @@
     - prefRoles: [ NukeopsCommander ]
       fallbackRoles: [ Nukeops, NukeopsMedic ]
       spawnerPrototype: SpawnPointNukeopsCommander
-      startingGear: SyndicateCommanderGearFull
+      startingGear: SyndicateCommanderGearBasic # Delta V - Reduce roundstart nukie gear
       components:
       - type: NukeOperative
       - type: RandomMetadata
@@ -119,7 +119,7 @@
     - prefRoles: [ NukeopsMedic ]
       fallbackRoles: [ Nukeops, NukeopsCommander ]
       spawnerPrototype: SpawnPointNukeopsMedic
-      startingGear: SyndicateOperativeMedicFull
+      startingGear: SyndicateOperativeMedicBasic # Delta V - Reduce roundstart nukie gear
       components:
       - type: NukeOperative
       - type: RandomMetadata
@@ -137,7 +137,7 @@
       spawnerPrototype: SpawnPointNukeopsOperative
       max: 3
       playerRatio: 10
-      startingGear: SyndicateOperativeGearFull
+      startingGear: SyndicateOperativeGearBasic # Delta V - Reduce roundstart nukie gear
       components:
       - type: NukeOperative
       - type: RandomMetadata

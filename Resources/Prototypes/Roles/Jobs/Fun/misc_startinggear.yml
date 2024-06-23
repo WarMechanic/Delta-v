@@ -131,6 +131,20 @@
   #inhand: # DeltaV - Prevent commander spawning with the declaration of war
   #  - NukeOpsDeclarationOfWar
 
+# Delta V - Nuclear Operative Commander Gear Basic
+- type: startingGear
+  id: SyndicateCommanderGearBasic
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitOperative
+    back: ClothingBackpackDuffelSyndicateOperative
+    ears: ClothingHeadsetAltSyndicate
+    neck: SyndicateWhistle
+    gloves: ClothingHandsGlovesCombat
+    shoes: ClothingShoesBootsCombatFilled
+    pocket1: BaseUplinkRadio40TC
+    id: SyndiPDA
+    belt: ClothingBeltMilitaryWebbing
+
 #Nuclear Operative Medic Gear
 - type: startingGear
   id: SyndicateOperativeMedicFull
@@ -146,6 +160,19 @@
     id: SyndiAgentPDA
     pocket1: DoubleEmergencyOxygenTankFilled
     pocket2: BaseUplinkRadio40TC
+    belt: ClothingBeltMilitaryWebbingMedFilled
+
+# Delta V - Nuclear Operative Medic Gear Basic
+- type: startingGear
+  id: SyndicateOperativeMedicBasic
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitOperative
+    back: ClothingBackpackDuffelSyndicateOperativeMedic
+    ears: ClothingHeadsetAltSyndicate
+    gloves: ClothingHandsGlovesCombat
+    shoes: ClothingShoesBootsCombatFilled
+    pocket1: BaseUplinkRadio40TC
+    id: SyndiAgentPDA
     belt: ClothingBeltMilitaryWebbingMedFilled
 
 #Syndicate Lone Operative Outfit - Full Kit

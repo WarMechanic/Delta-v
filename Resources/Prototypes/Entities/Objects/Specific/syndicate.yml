@@ -102,6 +102,28 @@
     tags:
     - NukeOpsUplink
 
+# DeltaV - Provide the commander hardsuit as a purchase option
+- type: entity
+  parent: BaseUplinkRadio40TC
+  id: BaseUplinkRadioCommander
+  suffix: NukeOps, Commander
+  components:
+  - type: Tag
+    tags:
+    - NukeOpsUplink
+    - NukeOpsUplinkCommander
+
+# DeltaV - Provide the medic hardsuit as a purchase option
+- type: entity
+  parent: BaseUplinkRadio40TC
+  id: BaseUplinkRadioMedic
+  suffix: NukeOps, Medic
+  components:
+  - type: Tag
+    tags:
+    - NukeOpsUplink
+    - NukeOpsUplinkMedic
+
 - type: entity
   parent: BaseUplinkRadio
   id: BaseUplinkRadio60TC

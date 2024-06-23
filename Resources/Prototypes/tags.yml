@@ -936,6 +936,12 @@
   id: NukeOpsUplink
 
 - type: Tag
+  id: NukeOpsUplinkCommander
+
+- type: Tag
+  id: NukeOpsUplinkMedic
+
+- type: Tag
   id: Ointment
 
 - type: Tag
