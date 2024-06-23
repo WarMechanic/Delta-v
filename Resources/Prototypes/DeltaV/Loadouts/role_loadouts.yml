@@ -56,3 +56,13 @@
   - LawyerBackpack
   - Glasses
   - Trinkets
+
+- type: roleLoadout
+  id: Nukeops
+  groups:
+  - SyndicateOperativeHead
+  - SyndicateOperativeNeck
+  - SyndicateOperativeJumpsuit
+  - SyndicateOperativeBack
+  - SyndicateOperativeOuterClothing
+  - SyndicateOperativeOuterShoes

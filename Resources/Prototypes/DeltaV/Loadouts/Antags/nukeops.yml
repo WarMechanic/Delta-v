@@ -1,0 +1,124 @@
+## Head
+- type: loadout
+  id: SyndicateHead
+  equipment: SyndicateHead
+
+- type: startingGear
+  id: SyndicateHead
+  equipment:
+    head: ClothingHeadHatSyndie
+
+- type: loadout
+  id: SyndicateOutlawHead
+  equipment: SyndicateOutlawHead
+
+- type: startingGear
+  id: SyndicateOutlawHead
+  equipment:
+    head: ClothingHeadHatOutlawHat
+
+## Neck
+- type: loadout
+  id: NeckGaiter
+  equipment: NeckGaiter
+
+- type: startingGear
+  id: NeckGaiter
+  equipment:
+    neck: ClothingMaskNeckGaiter
+
+- type: loadout
+  id: SyndicateScarfRed
+  equipment: SyndicateScarfRed
+
+- type: startingGear
+  id: SyndicateScarfRed
+  equipment:
+    neck: ClothingNeckScarfStripedSyndieRed
+
+- type: loadout
+  id: SyndicateScarfGreen
+  equipment: SyndicateScarfGreen
+
+- type: startingGear
+  id: SyndicateScarfGreen
+  equipment:
+    neck: ClothingNeckScarfStripedSyndieGreen
+
+## Jumpsuit
+- type: loadout
+  id: SyndicateOperativeJumpsuit
+  equipment: SyndicateOperativeJumpsuit
+
+- type: startingGear
+  id: SyndicateOperativeJumpsuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitOperative
+
+- type: loadout
+  id: SyndicateOperativeJumpskirt
+  equipment: SyndicateOperativeJumpskirt
+
+- type: startingGear
+  id: SyndicateOperativeJumpskirt
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtOperative
+
+- type: loadout
+  id: SyndicateFormalSuit
+  equipment: SyndicateFormalSuit
+
+- type: startingGear
+  id: SyndicateFormalSuit
+  equipment:
+    jumpsuit: ClothingUniformJumpsuitSyndieFormal
+
+- type: loadout
+  id: SyndicateFormalDress
+  equipment: SyndicateFormalDress
+
+- type: startingGear
+  id: SyndicateFormalDress
+  equipment:
+    jumpsuit: ClothingUniformJumpskirtSyndieFormalDress
+
+## Back
+- type: loadout
+  id: SyndicateBackpack
+  equipment: SyndicateBackpack
+
+- type: startingGear
+  id: SyndicateBackpack
+  equipment:
+    back: ClothingBackpackSyndicate
+
+- type: loadout
+  id: SyndicateDuffel
+  equipment: SyndicateDuffel
+
+- type: startingGear
+  id: SyndicateDuffel
+  equipment:
+    back: ClothingBackpackDuffelSyndicateOperative
+
+## OuterClothing
+- type: loadout
+  id: SyndicateWintercoat
+  equipment: SyndicateWintercoat
+
+- type: startingGear
+  id: SyndicateWintercoat
+  equipment:
+    outerClothing: ClothingOuterWinterSyndie
+
+## Shoes
+# Combat boots are defined in Prototypes/Loadouts/Jobs/Security/SecurityOfficer.yml
+
+- type: loadout
+  id: SyndicateWinterBoots
+  equipment: SyndicateWinterBoots
+
+- type: startingGear
+  id: SyndicateWinterBoots
+  equipment:
+    shoes: ClothingShoesBootsWinterSyndicate

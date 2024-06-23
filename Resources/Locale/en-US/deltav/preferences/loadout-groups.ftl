@@ -99,3 +99,11 @@ loadout-group-martial-artist-shoes = Martial Artist shoes
 
 loadout-group-gladiator-jumpsuit = Gladiator jumpsuit
 loadout-group-gladiator-outerclothing = Gladiator outer clothing
+
+# Syndicate
+loadout-group-syndicateoperative-head = Nuclear Operative head
+loadout-group-syndicateoperative-neck = Nuclear Operative neck
+loadout-group-syndicateoperative-jumpsuit = Nuclear Operative jumpsuit
+loadout-group-syndicateoperative-back = Nuclear Operative back
+loadout-group-syndicateoperative-outerclothing = Nuclear Operative outer clothing
+loadout-group-syndicateoperative-shoes = Nuclear Operative shoes

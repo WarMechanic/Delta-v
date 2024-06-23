@@ -192,3 +192,61 @@
   - ScarfOrange
   - ScarfBlack
   - ScarfZebra
+
+# NukeOps
+- type: loadoutGroup
+  id: SyndicateOperativeHead
+  name: loadout-group-syndicateoperative-head
+  minLimit: 0
+  loadouts:
+  - SyndicateHead
+  - SyndicateOutlawHead
+
+- type: loadoutGroup
+  id: SyndicateOperativeNeck
+  name: loadout-group-syndicateoperative-neck
+  minLimit: 0
+  loadouts:
+  - NeckGaiter
+  - SyndicateScarfRed
+  - SyndicateScarfGreen
+  - ScarfRed
+  - ScarfBlue
+  - ScarfLightBlue
+  - ScarfGreen
+  - ScarfPurple
+  - ScarfBrown
+  - ScarfOrange
+  - ScarfBlack
+  - ScarfZebra
+
+- type: loadoutGroup
+  id: SyndicateOperativeJumpsuit
+  name: loadout-group-syndicateoperative-jumpsuit
+  loadouts:
+  - SyndicateOperativeJumpsuit
+  - SyndicateOperativeJumpskirt
+  - SyndicateFormalSuit
+  - SyndicateFormalDress
+
+- type: loadoutGroup
+  id: SyndicateOperativeBack
+  name: loadout-group-syndicateoperative-shoes
+  loadouts:
+  - SyndicateBackpack
+  - SyndicateDuffel
+
+- type: loadoutGroup
+  id: SyndicateOperativeOuterClothing
+  name: loadout-group-syndicateoperative-outerclothing
+  minLimit: 0
+  loadouts:
+  - SyndicateWintercoat
+
+- type: loadoutGroup
+  id: SyndicateOperativeShoes
+  name: loadout-group-syndicateoperative-shoes
+  loadouts:
+  - CombatBoots
+  - JackBoots
+  - SyndicateWinterBoots
